@@ -1,0 +1,32 @@
+body {
+    background-image: url("../images/background.jpg");
+}
+
+#title{
+    text-align: center;
+    font-family: 'Sancreek', cursive;
+    opacity: 1;
+    font-size: 85px;
+}
+
+#info{
+    text-align: center;
+}
+
+.jumbotron{
+    opacity: 0.75;
+    margin: 25px 100px 25px;
+}
+
+.lead{
+    font-weight: bold;
+    font-size: 27px;
+    margin-left: 125px;
+    font-family: 'Sniglet', cursive;
+}
+
+span{
+    color: hotpink;
+    opacity: 1;
+    font-weight: bold;
+}
